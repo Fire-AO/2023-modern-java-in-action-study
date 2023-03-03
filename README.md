@@ -54,3 +54,5 @@
 |  4  | 2022-03-24 |                  [4장] 스트림 소개                   |
 |  5  | 2022-03-30 |                  [5장] 스트림 활용                   |
 |  6  | 2022-04-06 |               [6장] 스트림 데이터 수집               |
+
+출처: https://github.com/woowacourse-study/2022-modern-java-in-action
