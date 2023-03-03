@@ -35,14 +35,13 @@
 
 | 스터디원 |                  Github 프로필                  |
 | :------: | :---------------------------------------------: |
-|  그린론  |   [jaejae-yoo](https://github.com/jaejae-yoo)   |
-|   라라   | [sure-why-not](https://github.com/sure-why-not) |
-|    썬    |     [syoun602](https://github.com/syoun602)     |
-|   알파   |      [bcc0830](https://github.com/bcc0830)      |
-|   야호   |      [pup-paw](https://github.com/pup-paw)      |
-|    정    |  [bugoverdose](https://github.com/bugoverdose)  |
-|   토르   |   [injoon2019](https://github.com/injoon2019)   |
-|   티키   |   [yh20studio](https://github.com/yh20studio)   |
+|  김진범  |   [jinbeom-kim](https://github.com/kjb512)      |
+|  김초은  |   [choeun-kim](https://github.com/ChoeunKim)    |
+|  박세진  |   [sejin-park](https://github.com/sejineer)     |
+|  신초은  |   [choeun-shin](https://github.com/choeun7)     |
+|  유용석  |   [yongseok-yu](https://github.com/sejineer)    |
+|  장호진  |   [hojin-jang](https://github.com/hojinida)     |
+|  주도현  |   [dohyeon-ju](https://github.com/wnehgus101)   |
 
 ## 🐾 발자취
 
