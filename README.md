@@ -42,9 +42,9 @@
 |  유용석  |   [yongseok-yu](https://github.com/Yoo-yongseok)|
 |  장호진  |   [hojin-jang](https://github.com/hojinida)     |
 |  주도현  |   [dohyeon-ju](https://github.com/wnehgus101)   |
-|  김현성  |   [dohyeon-ju](https://github.com/evgeniac10)   |
-|  송정민  |   [dohyeon-ju](https://github.com/thdwjdals)    |
-|  배종찬  |   [dohyeon-ju](https://github.com/wnehgus101)   |
+|  김현성  |   [hyunsung-kim](https://github.com/evgeniac10)   |
+|  송정민  |   [jungmin-song](https://github.com/thdwjdals)    |
+|  배종찬  |   [jongchan-bae](https://github.com/wnehgus101)   |
 
 
 ## 🐾 발자취
