@@ -39,7 +39,7 @@
 |  김초은  |   [choeun-kim](https://github.com/ChoeunKim)    |
 |  박세진  |   [sejin-park](https://github.com/sejineer)     |
 |  신초은  |   [choeun-shin](https://github.com/choeun7)     |
-|  유용석  |   [yongseok-yu](https://github.com/Yoo-yongseok)|
+|  유용석  |   [yongseok-yoo](https://github.com/Yoo-yongseok)|
 |  장호진  |   [hojin-jang](https://github.com/hojinida)     |
 |  주도현  |   [dohyeon-ju](https://github.com/wnehgus101)   |
 |  김현성  |   [hyunsung-kim](https://github.com/evgeniac10)   |
