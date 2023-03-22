@@ -39,20 +39,19 @@
 |  김초은  |   [choeun-kim](https://github.com/ChoeunKim)    |
 |  박세진  |   [sejin-park](https://github.com/sejineer)     |
 |  신초은  |   [choeun-shin](https://github.com/choeun7)     |
-|  유용석  |   [yongseok-yu](https://github.com/sejineer)    |
+|  유용석  |   [yongseok-yu](https://github.com/Yoo-yongseok)|
 |  장호진  |   [hojin-jang](https://github.com/hojinida)     |
 |  주도현  |   [dohyeon-ju](https://github.com/wnehgus101)   |
+|  김현성  |   [dohyeon-ju](https://github.com/evgeniac10)   |
+|  송정민  |   [dohyeon-ju](https://github.com/thdwjdals)    |
+|  배종찬  |   [dohyeon-ju](https://github.com/wnehgus101)   |
+
 
 ## 🐾 발자취
 
 | No. |    일시    |                         주제                         |
 | :-: | :--------: | :--------------------------------------------------: |
 |  0  | 2023-03-22 |                          OT                          |
-|  1  | 2022-03-02 | [1장] 자바 8, 9, 10, 11 : 무슨 일이 일어나고 있는가? |
-|  2  | 2022-03-09 |         [2장] 동작 파라미터화 코드 전달하기          |
-|  3  | 2022-03-16 |                  [3장] 람다 표현식                   |
-|  4  | 2022-03-24 |                  [4장] 스트림 소개                   |
-|  5  | 2022-03-30 |                  [5장] 스트림 활용                   |
-|  6  | 2022-04-06 |               [6장] 스트림 데이터 수집               |
+|  1  | 2023-03-28 | [1장] 자바 8, 9, 10, 11 : 무슨 일이 일어나고 있는가? |
 
 출처: https://github.com/woowacourse-study/2022-modern-java-in-action
