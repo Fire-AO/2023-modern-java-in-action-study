@@ -43,7 +43,7 @@
 |  장호진  |   [hojin-jang](https://github.com/hojinida)     |
 |  주도현  |   [dohyeon-ju](https://github.com/wnehgus101)   |
 |  김현성  |   [hyunsung-kim](https://github.com/evgeniac10)   |
-|  송정민  |   [jmin-song](https://github.com/thdwjdals)    |
+|  송정민  |   [jeongmin-song](https://github.com/thdwjdals)    |
 |  배종찬  |   [jongchan-bae](https://github.com/ZhongdanBae)   |
 
 
