@@ -54,4 +54,3 @@
 |  0  | 2023-03-22 |                          OT                          |
 |  1  | 2023-03-28 | [1장] 자바 8, 9, 10, 11 : 무슨 일이 일어나고 있는가? |
 
-출처: https://github.com/woowacourse-study/2022-modern-java-in-action
