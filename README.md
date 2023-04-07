@@ -44,6 +44,7 @@
 |  주도현  |   [dohyeon-ju](https://github.com/wnehgus101)   |
 |  송정민  |   [jeongmin-song](https://github.com/thdwjdals)    |
 |  배종찬  |   [jongchan-bae](https://github.com/ZhongdanBae)   |
+|  김현성  |   [hyunsung-kim](https://github.com/evgeniac10)   |
 
 
 ## 🐾 발자취
